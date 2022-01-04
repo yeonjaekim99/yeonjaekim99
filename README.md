@@ -4,4 +4,4 @@
 [![Notion Badge](https://img.shields.io/badge/-Notion-505b65?logo=notion&logoColor=white&link=https://pine-jester-4a7.notion.site/References-c0da81fc7a0046178ae72de95255ac37)](https://pine-jester-4a7.notion.site/References-c0da81fc7a0046178ae72de95255ac37)
 
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=yeonjaekim99&count_private=true&bg_color=fff0f0&title_color=8999ba&text_color=626262&custom_title=YeonJae)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=yeonjaekim99&count_private=true&bg_color=fff0f0&title_color=8999ba&show_icons=true&icon_color=8999ba&text_color=626262&custom_title=YeonJae)](https://github.com/anuraghazra/github-readme-stats)
