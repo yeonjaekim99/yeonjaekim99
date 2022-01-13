@@ -1,4 +1,6 @@
-## 🌷 연재 Yeonjae Kim 
+<div align=center>
+<h2>🌷 연재 Yeonjae Kim </h2>
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonjaekim99&count_bg=%23FBCECE&title_bg=%2395A7CC&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=semote2)](https://solved.ac/semote2)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-df7c77?style=flat&logo=Gmail&logoColor=white)](mailto:semote2@gmail.com)
@@ -7,3 +9,4 @@
 
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=yeonjaekim99&count_private=true&bg_color=fff0f0&title_color=8999ba&show_icons=true&icon_color=8999ba&text_color=626262&custom_title=YeonJae)](https://github.com/anuraghazra/github-readme-stats)
+</div>
